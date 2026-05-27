@@ -1,0 +1,70 @@
+# Course 15: Database Level 1 (Concepual & Practics)
+
+## Overview
+This repository contains all the code I have implemented in the Database Level 1 course on [Programmingadvices.com](programmingadvices.com) platform.
+
+## Project Structure
+
+### 1. Section_01_DDL_Data_Definition_Language
+* `Lesson_01_Create_Database_Script.sql`
+* `Lesson_02_Create_Database_if_not_Exist.sql`
+* `Lesson_03_Swith_Database_Useing_Use_Statement.sql`
+* `Lesson_04_Drop_Database.sql`
+* `Lesson_05_Drop_Database_is_Exists.sql`
+* `Lesson_06_Create_Table.sql`
+* `Lesson_07_Drop_Table.sql`
+
+### 2. Section_02_DDL_Data_Definition_Language_Alter_Tables
+* `Lesson_01_Add_Column.sql`
+* `Lesson_02_Rename_Column.sql`
+* `Lesson_03_Modify_Column_Data_Type.sql`
+* `Lesson_04_Delete_Column.sql`
+
+### 3. Section_03_Backup_&_Restore_Database
+* `Lesson_01_Buckup_Database_Full_Backup.sql`
+* `Lesson_02_Differential_Backup.sql`
+* `Lesson_03_Restore_Database.sql`
+
+### 4. Section_04_DML_Data_Manipulation_Language
+* `Lesson_01_Insert_Into_Statement.sql`
+* `Lesson_02_Update_Statement.sql`
+* `Lesson_03_Delete_Statement.sql`
+* `Lesson_04_Select_Into.sql`
+* `Lesson_05_Insert_Into_Select_From_Statement.sql`
+
+### 5. Section_05_Misc_1
+* `Lesson_01_Identity_Field_Atuo_Number_increament.sql`
+* `Lesson_02_Delete_vs_Truncate_Statement.sql`
+* `Lesson_03_Foriegn_Key_Constranit.sql`
+
+### 6. Section_06_DQL_Data_Query_Language
+* `Lesson_01_Select_Statement.sql`
+* `Lesson_02_Distinct_Statement.sql`
+
+## Note
+I uploade files when I finish the lesson directlt.
+
+## 🙏 Acknowledgment
+
+Special thanks and deep appreciation to **Dr. Mohammed Abu Hadhoud**,
+for his invaluable teaching, continuous support, and outstanding guidance throughout this project.
+This work was inspired and made possible through his educational platform
+[Programmingadvices.com](programmingadvices.com)
+which was the primary source of learning how to build this system step by step.
+
+## 📬 Contact
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/mohammed-ali-alamoudi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Mo__Ali_77" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/moalialamoudi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:alamoudimohammedali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
