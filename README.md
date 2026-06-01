@@ -6,40 +6,47 @@ This repository contains all the code I have implemented in the Database Level 1
 ## Project Structure
 
 ### 1. Section_01_DDL_Data_Definition_Language
-* `Lesson_01_Create_Database_Script.sql`
-* `Lesson_02_Create_Database_if_not_Exist.sql`
-* `Lesson_03_Swith_Database_Useing_Use_Statement.sql`
-* `Lesson_04_Drop_Database.sql`
-* `Lesson_05_Drop_Database_is_Exists.sql`
-* `Lesson_06_Create_Table.sql`
-* `Lesson_07_Drop_Table.sql`
+* [Lesson_01_Create_Database_Script.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_01_Create_Database_Script.sql)
+* [Lesson_02_Create_Database_if_not_Exist.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_02_Create_Database_if_not_Exist.sql)
+* [Lesson_03_Swith_Database_Useing_Use_Statement.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_03_Swith_Database_Useing_Use_Statement.sql)
+* [Lesson_04_Drop_Database.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_04_Drop_Database.sql)
+* [Lesson_05_Drop_Database_is_Exists.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_05_Drop_Database_is_Exists.sql)
+* [Lesson_06_Create_Table.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_06_Create_Table.sql)
+* [Lesson_07_Drop_Table.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_07_Drop_Table.sql)
 
 ### 2. Section_02_DDL_Data_Definition_Language_Alter_Tables
-* `Lesson_01_Add_Column.sql`
-* `Lesson_02_Rename_Column.sql`
-* `Lesson_03_Modify_Column_Data_Type.sql`
-* `Lesson_04_Delete_Column.sql`
+* [Lesson_01_Add_Column.sql](./Section_02_DDL_Data_Defintion_Language_Alter_Tables/Lesson_01_Add_Column.sql)
+* [Lesson_02_Rename_Column.sql](./Section_02_DDL_Data_Defintion_Language_Alter_Tables/Lesson_02_Rename_Column.sql)
+* [Lesson_03_Modify_Column_Data_Type.sql](./Section_02_DDL_Data_Defintion_Language_Alter_Tables/Lesson_03_Modify_Column_Data_Type.sql)
+* [Lesson_04_Delete_Column.sql](./Section_02_DDL_Data_Defintion_Language_Alter_Tables/Lesson_04_Delete_Column.sql)
 
 ### 3. Section_03_Backup_&_Restore_Database
-* `Lesson_01_Buckup_Database_Full_Backup.sql`
-* `Lesson_02_Differential_Backup.sql`
-* `Lesson_03_Restore_Database.sql`
+* [Lesson_01_Buckup_Database_Full_Backup.sql](./Section_03_Backup_&_Restore_Database/Lesson_01_Buckup_Database_Full_Backup.sql)
+* [Lesson_02_Differential_Backup.sql](./Section_03_Backup_&_Restore_Database/Lesson_02_Differential_Backup.sql)
+* [Lesson_03_Restore_Database.sql](./Section_03_Backup_&_Restore_Database/Lesson_03_Restore_Database.sql)
 
 ### 4. Section_04_DML_Data_Manipulation_Language
-* `Lesson_01_Insert_Into_Statement.sql`
-* `Lesson_02_Update_Statement.sql`
-* `Lesson_03_Delete_Statement.sql`
-* `Lesson_04_Select_Into.sql`
-* `Lesson_05_Insert_Into_Select_From_Statement.sql`
+* [Lesson_01_Insert_Into_Statement.sql](./Section_04_DML_Data_Mainpulation_Language/Lesson_01_Insert_Into_Statement.sql)
+* [Lesson_02_Update_Statement.sql](./Section_04_DML_Data_Mainpulation_Language/Lesson_02_Update_Statement.sql)
+* [Lesson_03_Delete_Statement.sql](./Section_04_DML_Data_Mainpulation_Language/Lesson_03_Delete_Statement.sql)
+* [Lesson_04_Select_Into.sql](./Section_04_DML_Data_Mainpulation_Language/Lesson_04_Select_Into.sql)
+* [Lesson_05_Insert_Into_Select_From_Statement.sql](./Section_04_DML_Data_Mainpulation_Language/Lesson_05_Insert_Into_Select_From_Statement.sql)
 
 ### 5. Section_05_Misc_1
-* `Lesson_01_Identity_Field_Atuo_Number_increament.sql`
-* `Lesson_02_Delete_vs_Truncate_Statement.sql`
-* `Lesson_03_Foriegn_Key_Constranit.sql`
+* [Lesson_01_Identity_Field_Atuo_Number_increament.sql](./Section_05_Misc_1/Lesson_01_Identity_Field_Atuo_Number_increament.sql)
+* [Lesson_02_Delete_vs_Truncate_Statement.sql](./Section_05_Misc_1/Lesson_02_Delete_vs_Truncate_Statement.sql)
+* [Lesson_03_Foriegn_Key_Constranit.sql](./Section_05_Misc_1/Lesson_03_Foriegn_Key_Constranit.sql)
 
 ### 6. Section_06_DQL_Data_Query_Language
-* `Lesson_01_Select_Statement.sql`
-* `Lesson_02_Distinct_Statement.sql`
+* [Lesson_01_Select_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_01_Select_Statement.sql)
+* [Lesson_02_Distinct_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_02_Distinct_Statement.sql)
+* [Lesson_03_Where_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_03_Where_Statement.sql)
+* [Lesson_04_IN_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_04_IN_Operator.sql)
+* [Lesson_05_Sorting_Order_By.sql](./Section_06_DQL_Data_Query_Language/Lesson_05_Sorting_Order_By.sql)
+* [Lesson_06_Select_Top_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_06_Select_Top_Statement.sql)
+* [Lesson_07_Select_As_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_07_Select_As_Statement.sql)
+* [Lesson_08_Between_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_08_Between_Operator.sql)
+* [Lesson_09_Count_sum_Avg_Min_Max_Functions.sql](./Section_06_DQL_Data_Query_Language/Lesson_09_Count_sum_Avg_Min_Max_Functions.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
