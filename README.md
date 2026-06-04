@@ -5,6 +5,10 @@ This repository contains all the code I have implemented in the Database Level 1
 
 ## Project Structure
 
+### Buckup Of Database
+First, restore the database, then run the query you want.
+* [Database_Backup](./Database_Backup/HR_Database.bak)
+
 ### 1. Section_01_DDL_Data_Definition_Language
 * [Lesson_01_Create_Database_Script.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_01_Create_Database_Script.sql)
 * [Lesson_02_Create_Database_if_not_Exist.sql](./Section_01_DDL_Data_Defintion_Language/Lesson_02_Create_Database_if_not_Exist.sql)
@@ -47,6 +51,9 @@ This repository contains all the code I have implemented in the Database Level 1
 * [Lesson_07_Select_As_Statement.sql](./Section_06_DQL_Data_Query_Language/Lesson_07_Select_As_Statement.sql)
 * [Lesson_08_Between_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_08_Between_Operator.sql)
 * [Lesson_09_Count_sum_Avg_Min_Max_Functions.sql](./Section_06_DQL_Data_Query_Language/Lesson_09_Count_sum_Avg_Min_Max_Functions.sql)
+* [Lesson_10_Group_By.sql](./Section_06_DQL_Data_Query_Language/Lesson_10_Group_By.sql)
+* [Lesson_11_Having_With_Group_By.sql](./Section_06_DQL_Data_Query_Language/Lesson_11_Having_With_Group_By.sql)
+* [Lesson_12_Like_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_12_Like_Operator.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
