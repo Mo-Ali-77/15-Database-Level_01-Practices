@@ -54,6 +54,7 @@ First, restore the database, then run the query you want.
 * [Lesson_10_Group_By.sql](./Section_06_DQL_Data_Query_Language/Lesson_10_Group_By.sql)
 * [Lesson_11_Having_With_Group_By.sql](./Section_06_DQL_Data_Query_Language/Lesson_11_Having_With_Group_By.sql)
 * [Lesson_12_Like_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_12_Like_Operator.sql)
+* [Lesson_13_Wildcards.sql](./Section_06_DQL_Data_Query_Language/Lesson_13_Wildcards.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
