@@ -61,6 +61,11 @@ First, restore the database, then run the query you want.
 * [Lesson_02_Left_Join.sql](./Section_07_Joins_Statement/Lesson_02_Left_Join.sql)
 * [Lesson_03_Right_Join_and_Full_Join.sql](./Section_07_Joins_Statement/Lesson_03_Right_Join_and_Full_Join.sql)
 
+### 8. Section_08_Jonis_Statement
+* [Lesson_01_View.sql](./Section_08_Views/Lesson_01_View.sql)
+
+
+
 ## Note
 I uploade files when I finish the lesson directlt.
 
