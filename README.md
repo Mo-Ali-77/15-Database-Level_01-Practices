@@ -56,6 +56,9 @@ First, restore the database, then run the query you want.
 * [Lesson_12_Like_Operator.sql](./Section_06_DQL_Data_Query_Language/Lesson_12_Like_Operator.sql)
 * [Lesson_13_Wildcards.sql](./Section_06_DQL_Data_Query_Language/Lesson_13_Wildcards.sql)
 
+### 7. Section_07_Jonis_Statement
+* [Lesson_01_Inner_Join.sql](./Section_07_Joins_Statement/Lesson_01_Inner_Join.sql)
+
 ## Note
 I uploade files when I finish the lesson directlt.
 
