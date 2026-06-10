@@ -58,6 +58,8 @@ First, restore the database, then run the query you want.
 
 ### 7. Section_07_Jonis_Statement
 * [Lesson_01_Inner_Join.sql](./Section_07_Joins_Statement/Lesson_01_Inner_Join.sql)
+* [Lesson_02_Left_Join.sql](./Section_07_Joins_Statement/Lesson_02_Left_Join.sql)
+* [Lesson_03_Right_Join_and_Full_Join.sql](./Section_07_Joins_Statement/Lesson_03_Right_Join_and_Full_Join.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
