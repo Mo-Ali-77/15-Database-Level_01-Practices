@@ -64,7 +64,8 @@ First, restore the database, then run the query you want.
 ### 8. Section_08_Jonis_Statement
 * [Lesson_01_View.sql](./Section_08_Views/Lesson_01_View.sql)
 
-
+### 9. Section_09_Jonis_Statement
+* [Lesson_01_Exists_statement.sql](./Section_09_More_Queries/Lesson_01_Exists_statement.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
