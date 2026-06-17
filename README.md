@@ -61,14 +61,16 @@ First, restore the database, then run the query you want.
 * [Lesson_02_Left_Join.sql](./Section_07_Joins_Statement/Lesson_02_Left_Join.sql)
 * [Lesson_03_Right_Join_and_Full_Join.sql](./Section_07_Joins_Statement/Lesson_03_Right_Join_and_Full_Join.sql)
 
-### 8. Section_08_Jonis_Statement
+### 8. Section_08_Views
 * [Lesson_01_View.sql](./Section_08_Views/Lesson_01_View.sql)
 
-### 9. Section_09_Jonis_Statement
+### 9. Section_09_More_Queries
 * [Lesson_01_Exists_statement.sql](./Section_09_More_Queries/Lesson_01_Exists_statement.sql)
 * [Lesson_02_Union.sql](./Section_09_More_Queries/Lesson_02_Union.sql)
 * [Lesson_03_Case.sql](./Section_09_More_Queries/Lesson_03_Case.sql)
 
+### 10. Section_10_More_About_Constraints
+* [Lesson_10_Default_Constraint.sql](./Section_10_More_About_Constraints/Lesson_10_Default_Constraint.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
