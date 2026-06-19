@@ -72,6 +72,8 @@ First, restore the database, then run the query you want.
 ### 10. Section_10_More_About_Constraints
 * [Lesson_01_Default_Constraint.sql](./Section_10_More_About_Constraints/Lesson_10_Default_Constraint.sql)
 * [Lesson_02_Check_Constraint.sql](./Section_10_More_About_Constraints/Lesson_02_Check_Constraint.sql)
+* [Lesson_03_Unique_Constraint.sql](./Section_10_More_About_Constraints/Lesson_03_Unique_Constraint.sql)
+* [Lesson_04_Index_Statement.sql](./Section_10_More_About_Constraints/Lesson_04_Index_Statement.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
