@@ -70,7 +70,8 @@ First, restore the database, then run the query you want.
 * [Lesson_03_Case.sql](./Section_09_More_Queries/Lesson_03_Case.sql)
 
 ### 10. Section_10_More_About_Constraints
-* [Lesson_10_Default_Constraint.sql](./Section_10_More_About_Constraints/Lesson_10_Default_Constraint.sql)
+* [Lesson_01_Default_Constraint.sql](./Section_10_More_About_Constraints/Lesson_10_Default_Constraint.sql)
+* [Lesson_02_Check_Constraint.sql](./Section_10_More_About_Constraints/Lesson_02_Check_Constraint.sql)
 
 ## Note
 I uploade files when I finish the lesson directlt.
